@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="details_string">"Name: %1$s\nLanguage: %2$s\nGenres: %3$s\nStatus: %4$s\n"</string>
+</resources>
